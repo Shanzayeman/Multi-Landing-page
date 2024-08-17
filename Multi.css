@@ -1,0 +1,197 @@
+body {
+    margin: 0px;
+}
+
+#main {
+    position: relative;
+    width: 100%;
+}
+
+#img {
+    height: 30px;
+    width: 60px;
+    position: absolute;
+    top: 20px;
+    left: 130px;
+}
+
+#head {
+    font-family: "Moderustic", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    position: absolute;
+    left: 180px;
+    color: lightskyblue;
+}
+
+#head:hover {
+    opacity: 0.5;
+}
+
+#link {
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    left: 600px;
+}
+
+#link:hover {
+    opacity: 0.5;
+}
+
+#link1 {
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    left: 680px;
+}
+
+#link1:hover {
+    opacity: 0.5;
+}
+
+#link2 {
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    left: 780px;
+}
+
+#link2:hover {
+    opacity: 0.5;
+}
+
+#link3 {
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    left: 880px;
+}
+
+#link3:hover {
+    opacity: 0.5;
+}
+
+#link4 {
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    left: 980px;
+}
+
+#link4:hover {
+    opacity: 0.5;
+}
+
+#link5 {
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    left: 1060px;
+}
+
+#link5:hover {
+    opacity: 0.5;
+}
+
+#link6 {
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    left: 1160px;
+}
+
+#link6:hover {
+    opacity: 0.5;
+}
+
+#div1 {
+    width: 1363px;
+    height: 500px;
+    border: 0.5px solid;
+    background-image: url(WhatsApp\ Image\ 2024-08-17\ at\ 8.01.56\ PM.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    position: absolute;
+    top: 70px;
+    opacity: 0.5;
+}
+
+#img1 {
+    height: 300px;
+    width: 400px;
+    position: absolute;
+    top: 280px;
+    left: 800px;
+}
+
+#head1 {
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    font-family: "Moderustic", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: white;
+}
+
+span {
+    color: lightskyblue;
+}
+
+#para {
+    position: absolute;
+    top: 300px;
+    left: 200px;
+    color: white;
+}
+
+#btn {
+    position: absolute;
+    top: 400px;
+    left: 200px;
+    height: 40px;
+    width: 80px;
+    background-color: turquoise;
+    border: 0px;
+    color: white;
+    font-family: sans-serif;
+}
+
+#btn:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+#head2 {
+    position: absolute;
+    top: 560px;
+    font-family: "Moderustic", sans-serif;
+    font-size: large;
+    left: 100px;
+}
+
+#para1 {
+    position: absolute;
+    top: 590px;
+    left: 100px;
+}
+
+#btn1 {
+    position: absolute;
+    left: 1000px;
+    top: 590px;
+    height: 40px;
+    width: 100px;
+    background-color: rgb(109, 152, 245);
+    border: 0px;
+    color: white;
+}
+
+#btn1:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
